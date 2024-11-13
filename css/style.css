@@ -1,0 +1,47 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body
+  {
+    background-color: #F2E9E4;
+    color: #403939;
+    font-family: 'Times New Roman', serif;
+    padding: 60px;
+  
+  }
+  
+  .invert{
+    color: #F2E9E4;
+    background-color: #403939;
+  }
+  
+  img{
+    height: 450px;
+    text-align: CENTER;
+  }
+  
+  .carousel{
+    border-style: solid;
+    border-color: #732716;
+    border-width: 5px;
+  }
+  
+  .red{
+    color:#732716;
+  }
+  
+  .food{
+    border-style: solid;
+    border-color: #403939;
+    border-width: 3px;
+    margin: 4px;
+  }
+  
+  .overUnderLine{
+    text-decoration-line: overline underline;
+  }
+  
+  p{
+    font-size: 13px;
+  }
